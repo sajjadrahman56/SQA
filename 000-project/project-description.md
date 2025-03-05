@@ -18,11 +18,11 @@ This project involved a comprehensive manual testing of the **GeeZap** applicati
 ### **Project Files**
 - **[GeeZap_Bug_Report.xlsx](./000-project/GeeZap_Bug_Report_Sajjad_Rahman.xlsx)**: Contains the full list of identified bugs along with reproduction steps, expected and actual results.
 - **Screenshots**:
-**Page 01** 
-  ![Page 1](./000-project/page1.JPG)
+  
+  ![Page 1](https://github.com/sajjadrahman56/SQA/blob/main/000-project/page1.JPG)
+  
   <br>
   <br>
-**Page 02**
-     
-  ![Page 2](./000-project/page2.JPG)
+  
+  ![Page 2](https://github.com/sajjadrahman56/SQA/blob/main/000-project/page2.JPG)
 
